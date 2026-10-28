@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "torashelf.com"
+        "torashelf.com",
+        "extensions.gnome.org"
       ]
     }
   ]
