@@ -10,7 +10,10 @@
         "getmailspring.com",
         "www.getmailspring.com",
         "claude.com",
-        "claude.ai"
+        "claude.ai",
+        "assets-proxy.anthropic.com",
+        "anthropic.com",
+        "*.anthropic.com"
       ]
     }
   ]
