@@ -86,7 +86,12 @@
         "kaggle.com",
         "colab.research.google.com",
         "g.co",
-        "goo.gl"
+        "goo.gl",
+        "pypi.org",
+        "pythonhosted.org",
+        "python.org",
+        "pypa.io",
+        "pypi.io"
       ]
     }
   ]
