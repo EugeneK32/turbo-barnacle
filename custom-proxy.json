@@ -91,7 +91,8 @@
         "pythonhosted.org",
         "python.org",
         "pypa.io",
-        "pypi.io"
+        "pypi.io",
+        "cloudfront.net"
       ]
     }
   ]
